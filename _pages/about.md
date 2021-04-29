@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a second-year PhD student at the University of Cambridge supervised by Professor Simone Teufel. Before joining the Natural Language and Information Processing group I've completed the MPhil in Advanced Computer Science also at the University of Cambridge. Before that, I've obtained a Bachelor of Law at the University of Exeter. I'm a member of [Rycolab](https://rycolab.io/){:target="\_blank"} at ETH Zurrich.
+I am a second-year PhD student at the University of Cambridge supervised by Professor Simone Teufel. Before joining the [Natural Language and Information Processing](https://www.cl.cam.ac.uk/research/nl/){:target="\_blank"} group I've completed the MPhil in Advanced Computer Science also at the University of Cambridge. Before that, I've obtained a Bachelor of Law at the University of Exeter. I'm a member of [Rycolab](https://rycolab.io/){:target="\_blank"} at ETH Zurrich.
 
 My PhD is on modeling precedent based reasoning in legal systems using deep learning. I work on what deep learning models can learn, have learned and should learn.
 
