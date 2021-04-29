@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: For a full list of publications, please see [Google Scholar](https://scholar.google.com/citations?user=vLgjEhQAAAAJ&hl=en&oi=ao){:target="\_blank"}.
+description: For a full list of publications, please see <b><a href="https://scholar.google.com/citations?user=vLgjEhQAAAAJ&hl=en&oi=ao">Google Scholar</a></b>.
 years: [2021, 2020, 2018, 2017]
 nav: true
 ---
