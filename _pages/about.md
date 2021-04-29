@@ -2,19 +2,19 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://www.cst.cam.ac.uk/people/jv406">University of Cambridge</a>
 
 profile:
   align: right
   image: IMG_1628_small.jpg
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a second-year PhD student at the University of Cambridge supervised by Professor Simone Teufel. Before joining the Natural Language and Information Processing group I've completed the MPhil in Advanced Computer Science at the University of Cambridge. Before that, I've obtained a Bachelor of Law at the University of Exeter. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am interested in precedent based reasoning in legal systems. I work on what deep learning models can learn, have learned and should learn.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You can find me on: [Twitter](http://reddit.com){:target="\_blank"}, [LinkedIn](http://reddit.com){:target="\_blank"} or the [department website](http://reddit.com){:target="\_blank"}.
