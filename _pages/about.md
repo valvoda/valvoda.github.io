@@ -18,4 +18,4 @@ I am a PhD student at the University of Cambridge Computer Laboratory supervised
 
 You can find my work on [Google Scholar](https://scholar.google.com/citations?user=vLgjEhQAAAAJ&hl=en&oi=a){:target="\_blank"}.
 
-You can find more of me on: [Twitter](https://twitter.com/ValvodaJosef){:target="\_blank"}, [GitHub](https://github.com/valvoda){:target="\_blank"}, [LinkedIn](https://www.linkedin.com/in/valvoda/){:target="\_blank"} or the [department website](https://www.cst.cam.ac.uk/people/jv406){:target="\_blank"}.
+You can find more of me on [Twitter](https://twitter.com/ValvodaJosef){:target="\_blank"}, [GitHub](https://github.com/valvoda){:target="\_blank"}, [LinkedIn](https://www.linkedin.com/in/valvoda/){:target="\_blank"} or the [department website](https://www.cst.cam.ac.uk/people/jv406){:target="\_blank"}.
