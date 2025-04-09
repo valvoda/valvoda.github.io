@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Applied Scientist at Amazon](https://www.amazon.science/){:target="\_blank"}
+subtitle: <a href="https://www.amazon.science/">Applied Scientist at Amazon</a>
 
 profile:
   align: left
