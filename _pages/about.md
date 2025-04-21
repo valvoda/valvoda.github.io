@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm an Applied Scientist at [Amazon](https://www.amazon.science/){:target="\_blank"} in Palo Alto working on AI alignment.
+I'm an Applied Scientist at [Amazon](https://www.amazon.science/){:target="\_blank"} in Palo Alto working on LLM Post-training.
 
 Previously, I was a Postdoc at the [University of Copenhagen](https://di.ku.dk/english/research/p1ai/){:target="\_blank"}, affiliated with both the [Danish Pioneer Center for AI](https://www.aicentre.dk/){:target="\_blank"} and [ETH AI Center](https://ai.ethz.ch/){:target="\_blank"}.
 Before that, I completed my PhD in Computer Science at the [University of Cambridge](https://www.cl.cam.ac.uk/research/nl/people/){:target="\_blank"} under the supervision of [Professor Simone Teufel](https://www.cl.cam.ac.uk/~sht25/){:target="\_blank"} (Cambridge) and [Professor Ryan Cotterell](https://inf.ethz.ch/people/person-detail.cotterell.html){:target="\_blank"} (ETH).
