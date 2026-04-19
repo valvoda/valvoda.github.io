@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.amazon.science/">Applied Scientist at Amazon</a>
+subtitle: <a href="https://x.company/">Research at Google X</a>
 
 profile:
   align: left
