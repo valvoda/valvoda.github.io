@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://x.company/">Research at Google X</a>
+subtitle: <a href="https://x.company/">Research at Google DeepMind>
 
 profile:
   align: left
@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm an AI Researcher at [Google X](https://x.company/){:target="\_blank"} in Mountain View.
+I work at [Google DeepMind](https://deepmind.google/){:target="\_blank"} in Mountain View.
 
 I completed my PhD in Computer Science at the [University of Cambridge](https://www.cl.cam.ac.uk/research/nl/people/){:target="\_blank"} under the supervision of [Professor Simone Teufel](https://www.cl.cam.ac.uk/~sht25/){:target="\_blank"} (Cambridge) and [Professor Ryan Cotterell](https://inf.ethz.ch/people/person-detail.cotterell.html){:target="\_blank"} (ETH). After that, I was a Postdoc at the [University of Copenhagen](https://di.ku.dk/english/research/p1ai/){:target="\_blank"}, affiliated with the [Danish Pioneer Center for AI](https://www.aicentre.dk/){:target="\_blank"} and [ETH AI Center](https://ai.ethz.ch/){:target="\_blank"}.
 
