@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://deepmind.google/">Research at Google DeepMind>
+subtitle: '<a href="https://deepmind.google/">Research at Google DeepMind</a>'
 
 profile:
   align: left
